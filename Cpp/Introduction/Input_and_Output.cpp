@@ -40,10 +40,7 @@ using namespace std;
 
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
-    int a;
-    int b;
-    int c;
-    cin >> a >> b >> c;
-    cout << a + b + c << endl;
+    int a=5/3;
+    cout << a << endl;
     return 0;
 }
